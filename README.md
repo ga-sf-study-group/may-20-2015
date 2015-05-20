@@ -10,4 +10,4 @@
 
 <h2>Problem #3 - Between 0 and n</h2>
 
-<p>Write a function to count all the number of 2s between 0 and n</p>
+<p>Write a function to count all the number of 2s between 0 and n. </p>
