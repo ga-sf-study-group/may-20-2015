@@ -9,7 +9,7 @@
 <p>Write a function to implement *, - , / operations only using the + operator</p>
 
 ```
-//my solution that I shared in class for the subtraction portion
+//my solution to the subtraction portion
 
 function additionalLand (num1, num2) {
   var large;
