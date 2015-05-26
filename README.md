@@ -8,30 +8,6 @@
 
 <p>Write a function to implement *, - , / operations only using the + operator</p>
 
-```
-//my solution to the subtraction portion
-
-function additionalLand (num1, num2) {
-  var large;
-  var small;
-  if (num1 === num2) {return 0};
-  if (num1 > num2) {
-    large = num1;
-    small = num2;
-  } else {
-    large = num2;
-    small = num1;               
-  }
-  var difference = 0;
-  for (i = small; i < large; i++) {    
-    difference = difference + 1;                                  
-  }
-  return difference;        
-                                                                 
-}
-
-```
-
 <h2>Problem #3 - Between 0 and n.</h2>
 
 
